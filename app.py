@@ -14,7 +14,7 @@ layout = "wide", initial_sidebar_state = "auto")
 
 
 # Import the image
-image = Image.open('sales.png')
+image = Image.open('sentiments.png')
 
 # Show the image
 st.image(image, caption='Sentiment Analysis', use_column_width=True)
@@ -40,7 +40,7 @@ elif choice == 'About':
 
 
 # Set Page Title
-st.title('Sales Prediction App')
+st.title('Sentiment Prediction App')
 st.markdown('Select your features and click on Submit')
 
 
