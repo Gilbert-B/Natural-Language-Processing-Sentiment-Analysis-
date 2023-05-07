@@ -15,8 +15,8 @@ from PIL import Image
 
 
 # Load the tokenizer and the fine-tuned model
-tokenizer = AutoTokenizer.from_pretrained('GhylB/Sentiment_Analysis_RoBERTa')
-model = AutoModelForSequenceClassification.from_pretrained('GhylB/Sentiment_Analysis_RoBERTa')
+tokenizer = AutoTokenizer.from_pretrained('GhylB/Sentiment_Analysis_BERT_Based_MODEL')
+model = AutoModelForSequenceClassification.from_pretrained('GhylB/Sentiment_Analysis_BERT_Based_MODEL')
 
 # Create a sentiment analysis pipeline with your fine-tuned model
 nlp = pipeline('sentiment-analysis', model=model, tokenizer=tokenizer)
