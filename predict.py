@@ -111,5 +111,5 @@ if choice == 'Home':
 elif choice == 'About':
     st.title('About')
     # Add information about the model
-    st.write('The model used in this app is a pre-trained DistilBERT model fine-tuned on the Stanford Sentiment Treebank (SST-2) dataset. The SST-2 dataset consists of movie reviews labeled as either positive or negative. The model has achieved state-of-the-art performance on the SST-2 dataset and is known for its speed and efficiency. However, like all machine learning models, it has its limitations and may not perform well on certain types of text or in certain contexts. It is important to keep this in mind when interpreting the results of this app.')
+    st.write('The model used in this app is a pre-trained BERT model fine-tuned on the Stanford Sentiment Treebank (SST-2) dataset. The SST-2 dataset consists of movie reviews labeled as either positive or negative. The model has achieved state-of-the-art performance on the SST-2 dataset and is known for its speed and efficiency. However, like all machine learning models, it has its limitations and may not perform well on certain types of text or in certain contexts. It is important to keep this in mind when interpreting the results of this app.')
     st.write('This WebApp was designed using Streamlit.')
