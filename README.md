@@ -11,8 +11,8 @@
 
 This is a sentiment analysis app built with Streamlit. It predicts the sentiments expressed in an input text and provides a visual representation of the sentiment scores.
 
-![App Screenshot](./screenshots/App.png)
-![App Screenshot](./screenshots/app2.png)
+![App Screenshot](./Screenshots/App.png)
+![App Screenshot](./Screenshots/app2.png)
 
 
 ## Setup
