@@ -42,4 +42,4 @@ To run the app locally, follow these steps:
 Gilbert Botchway 
 
 
-Your Article on Medium
+[Your Article on Medium](https://medium.com/@botchwaykojo/unleashing-sentiment-secrets-building-an-electrifying-sentiment-analysis-app-with-streamlit-and-edad77bdf1ce)
