@@ -40,4 +40,6 @@ To run the app locally, follow these steps:
 
 ## Author
 Gilbert Botchway 
+
+
 Your Article on Medium
