@@ -26,8 +26,10 @@ To run the app locally, follow these steps:
    
    
 2. Navigate to the project directory:
+
 ```shell
    cd sentiment-analysis-app
+   
    
    
 3. Install the required dependencies:
