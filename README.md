@@ -34,18 +34,18 @@ To run the app locally, follow these steps:
 3. Install the required dependencies:
 
    ```shell
-  pip install -r requirements.txt
+   pip install -r requirements.txt
   
   
 4. Run the Streamlit app:
 
    ```shell
-  streamlit run sentimentappstreamlit.py
+   streamlit run sentimentappstreamlit.py
   
 5. Open your web browser and visit
 
    ```shell
-    http://localhost:8501 
+   http://localhost:8501 
 to access the app.
 
 
