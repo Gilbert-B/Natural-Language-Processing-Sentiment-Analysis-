@@ -27,26 +27,26 @@ To run the app locally, follow these steps:
    
 2. Navigate to the project directory:
 
-```shell
+   ```shell
    cd sentiment-analysis-app
    
    
    
 3. Install the required dependencies:
 
-```shell
+  ```shell
   pip install -r requirements.txt
   
   
 4. Run the Streamlit app:
 
-```shell
+   ```shell
   streamlit run sentimentappstreamlit.py
   
 5. Open your web browser and visit
 
-```shell
-http://localhost:8501 
+    ```shell
+    http://localhost:8501 
 to access the app.
 
 
