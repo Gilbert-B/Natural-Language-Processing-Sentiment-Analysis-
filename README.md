@@ -29,12 +29,11 @@ To run the app locally, follow these steps:
 
    ```shell
    cd sentiment-analysis-app
-   
-   
+     
    
 3. Install the required dependencies:
 
-  ```shell
+   ```shell
   pip install -r requirements.txt
   
   
@@ -45,7 +44,7 @@ To run the app locally, follow these steps:
   
 5. Open your web browser and visit
 
-    ```shell
+   ```shell
     http://localhost:8501 
 to access the app.
 
