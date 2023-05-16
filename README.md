@@ -25,17 +25,23 @@ To run the app locally, follow these steps:
    git clone https://github.com/Gilbert-B/Natural-Language-Processing-Sentiment-Analysis.git
    
 2. Navigate to the project directory:
+```shell
    cd sentiment-analysis-app
    
    
 3. Install the required dependencies:
+```shell
   pip install -r requirements.txt
   
   
 4. Run the Streamlit app:
+```shell
   streamlit run sentimentappstreamlit.py
   
-5. Open your web browser and visit http://localhost:8501 to access the app.
+5. Open your web browser and visit
+```shell
+http://localhost:8501 
+to access the app.
 
 
 ## Author
