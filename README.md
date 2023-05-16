@@ -42,11 +42,7 @@ To run the app locally, follow these steps:
    ```shell
    streamlit run sentimentappstreamlit.py
   
-5. Open your web browser and visit
-
-   ```shell
-   http://localhost:8501 
-to access the app.
+5. Open your web browser and visit http://localhost:8501 to access the app.
 
 
 ## Author
