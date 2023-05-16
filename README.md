@@ -24,6 +24,7 @@ To run the app locally, follow these steps:
    ```shell
    git clone https://github.com/Gilbert-B/Natural-Language-Processing-Sentiment-Analysis.git
    
+   
 2. Navigate to the project directory:
 ```shell
    cd sentiment-analysis-app
